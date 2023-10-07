@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+shbin.py
+shbin.egg-info/PKG-INFO
+shbin.egg-info/SOURCES.txt
+shbin.egg-info/dependency_links.txt
+shbin.egg-info/entry_points.txt
+shbin.egg-info/requires.txt
+shbin.egg-info/top_level.txt

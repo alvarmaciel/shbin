@@ -1,0 +1,2 @@
+[console_scripts]
+shbin = shbin:main

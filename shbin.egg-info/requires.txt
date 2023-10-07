@@ -1,0 +1,11 @@
+pygithub>=1.55
+pyclip>=0.7.0
+python-magic>=0.4.27
+docopt-ng>=0.8.1
+rich>=12.5
+
+[dev]
+pytest
+black
+pytest-cov
+flake8
