@@ -26,7 +26,9 @@ dependencies = [
     "docopt-ng >= 0.8.1",
     "rich >= 12.5",
 ]
-dynamic = ["version", "description"]
+version = "0.3.1"
+description = "It's a tiny command-line tool we've built at Shiphero that lets you easily upload code snippets, notebooks, images, or any other file to a Github repository that acts as your internal pastebin, and returns the URL to share it with your team. If possible, this URL is automatically copied to the clipboard."
+
 
 [project.urls]
 Home = "https://github.com/Shiphero/shbin"
